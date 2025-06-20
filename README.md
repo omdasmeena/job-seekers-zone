@@ -15,10 +15,7 @@ This is a full-stack Job Portal web application developed using the **MERN Stack
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Deployment: (Add if deployed on Vercel/Render/Netlify/etc.)
-
-## 🚀 Live Demo
-[Live Site Link](#) — *Add your deployment link here if available*
-
+ 
 ## 📂 Folder Structure
 - `/client` — React frontend
 - `/server` — Express backend with MongoDB
