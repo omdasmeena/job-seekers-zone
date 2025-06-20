@@ -14,15 +14,8 @@ This is a full-stack Job Portal web application developed using the **MERN Stack
 - Frontend: React.js, Tailwind CSS, shadcn/ui, Framer Motion
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- Deployment: (Add if deployed on Vercel/Render/Netlify/etc.)
  
 ## 📂 Folder Structure
 - `/client` — React frontend
 - `/server` — Express backend with MongoDB
-
-## 📄 License
-MIT License
-
----
-
-Feel free to customize the description to match any unique features or technologies you’ve added. If you want, you can also share your GitHub link and I’ll help you refine the README directly!
+ 
